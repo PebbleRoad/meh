@@ -316,7 +316,7 @@ tr.note-row td.note-bg {
 
 }
 table.whole-row, table.whole-note, table#column-header, div.temp-wrapper {
-width: 1446px;
+width: 1440px;
 
 }
 /******************
@@ -334,42 +334,42 @@ tr#header td:nth-of-type(1), tr.outline-row > td:nth-of-type(1), tr.note-row > t
     max-width: 20px; 
 }
 table.outline-column { 
-    width: 247px; 
-    max-width: 247px; 
+    width: 302px; 
+    max-width: 302px; 
 }
 tr#header td:nth-of-type(2), tr.outline-row > td:nth-of-type(2) { 
-    width: 247px; 
-    max-width: 247px; 
+    width: 302px; 
+    max-width: 302px; 
     
 }
 tr#header td:nth-of-type(3), tr.outline-row > td:nth-of-type(3), tr.note-row > td:nth-of-type(3) { 
-    width: 138px; 
-    max-width: 138px; 
+    width: 151px; 
+    max-width: 151px; 
     
 }
 tr#header td:nth-of-type(4), tr.outline-row > td:nth-of-type(4), tr.note-row > td:nth-of-type(4) { 
+    width: 145px; 
+    max-width: 145px; 
+    
+}
+tr#header td:nth-of-type(5), tr.outline-row > td:nth-of-type(5), tr.note-row > td:nth-of-type(5) { 
     width: 149px; 
     max-width: 149px; 
     
 }
-tr#header td:nth-of-type(5), tr.outline-row > td:nth-of-type(5), tr.note-row > td:nth-of-type(5) { 
-    width: 197px; 
-    max-width: 197px; 
-    
-}
 tr#header td:nth-of-type(6), tr.outline-row > td:nth-of-type(6), tr.note-row > td:nth-of-type(6) { 
-    width: 237px; 
-    max-width: 237px; 
-    
-}
-tr#header td:nth-of-type(7), tr.outline-row > td:nth-of-type(7), tr.note-row > td:nth-of-type(7) { 
     width: 150px; 
     max-width: 150px; 
     
 }
+tr#header td:nth-of-type(7), tr.outline-row > td:nth-of-type(7), tr.note-row > td:nth-of-type(7) { 
+    width: 152px; 
+    max-width: 152px; 
+    
+}
 tr#header td:nth-of-type(8), tr.outline-row > td:nth-of-type(8), tr.note-row > td:nth-of-type(8) { 
-    width: 308px; 
-    max-width: 308px; 
+    width: 371px; 
+    max-width: 371px; 
     
 }
 
@@ -435,18 +435,18 @@ Named styles info:
 Padding values are not included here because they are additive and can affect a different row than the one that has the attribute
 *********************************************/
 /* Named Styles */
-div#centered tr td .ns-a8uPZdPz_yn-Content, .ns-a8uPZdPz_yn-Content, div#centered .ns-a8uPZdPz_yn-Content div { 
+div#centered tr td .ns-nSBr9QvR4r1-Content, .ns-nSBr9QvR4r1-Content, div#centered .ns-nSBr9QvR4r1-Content div { 
     color: rgb(103,103,103);
     font-style: italic;
     
 }
 
 /* Named Styles Backgroud Colors */
-div#centered tr td .ns-bg-a8uPZdPz_yn-Content, .ns-bg-a8uPZdPz_yn-Content { 
+div#centered tr td .ns-bg-nSBr9QvR4r1-Content, .ns-bg-nSBr9QvR4r1-Content { 
     
 }
 
 /* Named Styles Gutter Colors */
-div#centered tr td .ns-gutter-a8uPZdPz_yn-Content, .ns-gutter-a8uPZdPz_yn-Content { 
+div#centered tr td .ns-gutter-nSBr9QvR4r1-Content, .ns-gutter-nSBr9QvR4r1-Content { 
     
 }
